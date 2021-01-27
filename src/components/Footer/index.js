@@ -5,7 +5,7 @@ function Footer() {
     return (
 
         <div id="foot">
-            footer
+            Anthony Parrino 2021
         </div>
     )
 }
