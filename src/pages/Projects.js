@@ -1,8 +1,11 @@
 import React from "react";
+import ProjectComponent from "../components/ProjectComponent"
 
 function Projects() {
     return(
-        <p>projects</p>
+        <div>
+            <ProjectComponent />
+        </div>
     )
 }
 
