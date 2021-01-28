@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Lyric Finder",
+        "image": "./static/images/project1.png",
+        "description": "The lyric finder app allows users to search for an artist and any song by that artist to veiw your results. Upon entering the artist name and corresponding song of the users choice, the user will be redirected to the results page where the lyrics of that specific song plus the most up to date bio on the artist will be displayed. Two Api's were used for the app in order to render results. The api used to get the arist bio is from audio scrobbler and for the lyrics is from musix match.",
+        "link": "https://goobisanubis21.github.io/project1-lyricFinder/",
+        "code": "https://github.com/goobisanubis21/project1-lyricFinder"
+    },
+    {
+        "id": 2,
+        "title": "Employee Directory",
+        "image": "./static/images/employeedirectory.png",
+        "description": "The employee directory app allows a user to see a list of all the employees in there company. They are able to start typing in the search bar in order to filter out who the dont want too see depending upon what letters they type. User is also able to sort the list in alphabetical order by first name at the click of a button. This app is written in ReactJs using the node package axios.",
+        "link": "https://goobisanubis21.github.io/employeedirectory/",
+        "code": "https://github.com/goobisanubis21/employeedirectory"
+    },
+    {
+        "id": 3,
+        "title": "Hangman",
+        "image": "./static/images/hangman.png",
+        "description": "Introducing HANGDOUT, a revolutionary way to play, collaborate, and learn alongside your peers! Upon entering the application, the user is greeted with a sign up page where they will create a username pior to entering the home page. We have implemented words derived from the Scholastic Aptitude Test in our hang man game which will allow the user to familiarize themselves with the word stack. After playing a game of hang man, the score of the user will be stored in a leaderboard which they can keep track of. The leaderboards will incorporate a ranking system that lets individuals compete in order to obtain the highest score. The vocabulary words have been strategically selected to engage our users of all age groups, especially those who are preparing to take their Scholastic Aptitude Test (SAT). Users will be able to edit and remove their profiles as they please which will remove all of their statistics including high scores and win streaks from the application.",
+        "link": "https://projectnumtwo2.herokuapp.com/login",
+        "code": "https://github.com/goobisanubis21/projectTwo"
+    },
+    {
+        "id": 4,
+        "title": "Weather",
+        "image": "./static/images/weather.png",
+        "description": "The weather dashboard app is design to give a user friendly and simple experience to check the weather conditions in any searched area. Upon searching a certain area which gets displayed, the app allows user to see the current date, temp in Fahrenheit, humidity, wind speed and uv index. It also allows user to see the 5 day forecast for the searched area. All searches are prepended into a search history list that appears beneath the search bar which allows user to click on any old searches to quickly view all the data.",
+        "link": "https://goobisanubis21.github.io/weather/",
+        "code": "https://github.com/goobisanubis21/weather"
+    },
+    {
+        "id": 5,
+        "title": "Password Generator",
+        "image": "./static/images/passwordgen.png",
+        "description": "The password generator app allows a user to simply click on a button to get a random password created. A series of prompts asks the user what they would like the password to contain. An easy fix for anyone who wants a secure password that is next to impossible to guess as a hacker.",
+        "link": "https://goobisanubis21.github.io/codeGen/",
+        "code": "https://github.com/goobisanubis21/codeGen"
+    },
+    {
+        "id": 6,
+        "title": "Daily Planner",
+        "image": "./static/images/scheduler.png",
+        "description": "The daily planner home work is a simple tasks organizer. The current time of day will be highlighted in red, the future times in green and the past are in the default color. It allows the user to type in a task in a time block in the normal 9 to 5 work day, save that task into local storage and then have it displayed to the user whether you refresh the page or even close out the brower window entirely. It also shows the current day month and year.",
+        "link": "https://goobisanubis21.github.io/calendar/",
+        "code": "https://github.com/goobisanubis21/calendar"
+    }
+]
