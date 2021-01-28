@@ -18,7 +18,7 @@ function Nav() {
             </li>
             <li className="nav-item">
                 <Link to="/projects" >
-                    Projects
+                    Protfolio
                 </Link>
             </li>
             <li className="nav-item">

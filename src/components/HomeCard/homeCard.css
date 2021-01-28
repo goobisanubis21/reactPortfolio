@@ -2,16 +2,32 @@
     width: 80px;
 }
 
+#githubLogo:hover {
+    transform: scale(1.3);
+}
+
 #linkedinLogo {
     width: 80px;
+}
+
+#linkedinLogo:hover {
+    transform: scale(1.3);
 }
 
 #instagramLogo {
     width: 80px;
 }
 
+#instagramLogo:hover {
+    transform: scale(1.3);
+}
+
 #resumeLogo {
     width: 120px;
+}
+
+#resumeLogo:hover {
+    transform: scale(1.3);
 }
 
 #logos a {
