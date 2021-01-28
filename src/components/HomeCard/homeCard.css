@@ -17,3 +17,9 @@
 #logos a {
     margin: 100px;
 }
+
+#cardBodyDiv {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}

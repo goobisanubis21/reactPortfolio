@@ -1,0 +1,16 @@
+#projectCard {
+    width: 50%;
+    align-items: center;
+    text-align: center !important;
+    margin: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.listCardItems {
+    margin: 30px;
+}
+
+#imageSize {
+    width: 500px;
+}

@@ -1,6 +1,7 @@
 import React from "react";
 import ProjectComponent from "../components/ProjectComponent"
 import projects from "../projects.json";
+import "../static/style/project.css"
 
 function Projects() {
 
