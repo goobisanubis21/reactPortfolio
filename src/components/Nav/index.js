@@ -11,17 +11,17 @@ function Nav() {
                     <img id="logo" src={logo} alt="logo"/>
                 </Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item" title="Home Page">
                 <Link to="/" >
                     Home
                 </Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item" title="Check out my projects">
                 <Link to="/projects" >
                     Protfolio
                 </Link>
             </li>
-            <li className="nav-item">
+            <li className="nav-item" title="Questions? Feedback? Email me">
                 <Link to="/contact" >
                     Contact Me
                 </Link>

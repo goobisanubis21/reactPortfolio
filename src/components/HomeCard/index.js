@@ -19,10 +19,10 @@ function HomeCard() {
                 <br />
                 <br />
                 <div id="logos">
-                    <a href="https://github.com/goobisanubis21" className="card-link"><img id="githubLogo" src={github} alt="github" /></a>
-                    <a href="https://www.linkedin.com/in/anthony-parrino-887b391b3/" className="card-link"><img id="linkedinLogo" src={linkedin} alt="linkedin" /></a>
-                    <a href="https://www.instagram.com/antonio21_art/" className="card-link"><img id="instagramLogo" src={instagram} alt="instagram" /></a>
-                    <a href="https://docs.google.com/document/d/1DF1pCoxE6CbxVXvTtMoAfvGEWmGFIUaM0rdCEHtcqZw/edit?usp=sharing" className="card-link"><img id="resumeLogo" src={resume} alt="resume" /></a>
+                    <a title="Github" href="https://github.com/goobisanubis21" className="card-link"><img id="githubLogo" src={github} alt="github" /></a>
+                    <a title="LinkedIn" href="https://www.linkedin.com/in/anthony-parrino-887b391b3/" className="card-link"><img id="linkedinLogo" src={linkedin} alt="linkedin" /></a>
+                    <a title="Instagram" href="https://www.instagram.com/antonio21_art/" className="card-link"><img id="instagramLogo" src={instagram} alt="instagram" /></a>
+                    <a title="Resume" href="https://docs.google.com/document/d/1DF1pCoxE6CbxVXvTtMoAfvGEWmGFIUaM0rdCEHtcqZw/edit?usp=sharing" className="card-link"><img id="resumeLogo" src={resume} alt="resume" /></a>
                     
                 </div>
             </div>
