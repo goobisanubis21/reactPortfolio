@@ -1,0 +1,48 @@
+#contactPage {
+    margin-top: 15%;
+    text-align: center;
+}
+
+.inputEl {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 30px;
+    align-items: center;
+    margin: 10px;
+    border: none;
+    outline-width: 0;
+}
+
+.textEl {
+    margin-top: 30px;
+    width: 30%;
+    height: 200px;
+    border-radius: 10px;
+    outline-width: 0;
+}
+
+.subBtn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 999px;
+    width: 80px;
+    margin-top: 20px;
+}
+
+.inputBorder {
+    border-radius: 999px;
+    border: 1px solid rgb(102, 102, 102);
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: white;
+}
+
+#privacy {
+    font-size: 13px;
+    margin-top: 35px;
+}
