@@ -20,4 +20,4 @@ My portfolio app is built in ReactJs. It allows a user to easily navigate from p
 
 ### Github Code: https://github.com/goobisanubis21/reactportfolio
 
-### App Link: https://goobisanubis21.github.io/reactportfolio/
+### App Link: https://sleepy-inlet-24418.herokuapp.com/
