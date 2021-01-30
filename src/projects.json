@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "title": "Lyric Finder",
-        "image": "https://user-images.githubusercontent.com/69410816/97770007-e83c8980-1b05-11eb-9c10-5b3874ad737d.png",
-        "description": "The lyric finder app allows users to search for an artist and any song by that artist to veiw your results. Upon entering the artist name and corresponding song of the users choice, the user will be redirected to the results page where the lyrics of that specific song plus the most up to date bio on the artist will be displayed. Two Api's were used for the app in order to render results. The api used to get the arist bio is from audio scrobbler and for the lyrics is from musix match.",
-        "link": "https://goobisanubis21.github.io/project1-lyricFinder/",
-        "code": "https://github.com/goobisanubis21/project1-lyricFinder"
+        "title": "Eat The Burger",
+        "image": "https://user-images.githubusercontent.com/69410816/101261112-c638b700-3702-11eb-86e5-21babbade94f.png",
+        "description": "The burger app is a user friendly web application that allows a user to create their own burgers. User can type the name of their burger into the input field and when clicking on the submit button the burger will be added to the mysql database. It will then refresh the page so that the burger will be added to the list of burgers below. User will then have the option to devour a burger which will then, updating the database, move the devoured burger over to the devoured section. Once in the devoured section the user will have the option to delete the burger which will completely drop it from the database and no longer be viewed on the page. This application uses the mysql package along with the express package.",
+        "link": "https://github.com/goobisanubis21/burger",
+        "code": "https://dry-wildwood-56416.herokuapp.com/"
     },
     {
         "id": 2,
@@ -33,11 +33,11 @@
     },
     {
         "id": 5,
-        "title": "Password Generator",
-        "image": "https://user-images.githubusercontent.com/69410816/95018951-9ef53900-0630-11eb-9cf4-5c375b5fcad4.png",
-        "description": "The password generator app allows a user to simply click on a button to get a random password created. A series of prompts asks the user what they would like the password to contain. An easy fix for anyone who wants a secure password that is next to impossible to guess as a hacker.",
-        "link": "https://goobisanubis21.github.io/codeGen/",
-        "code": "https://github.com/goobisanubis21/codeGen"
+        "title": "Lyric Finder",
+        "image": "https://user-images.githubusercontent.com/69410816/97770007-e83c8980-1b05-11eb-9c10-5b3874ad737d.png",
+        "description": "The lyric finder app allows users to search for an artist and any song by that artist to veiw your results. Upon entering the artist name and corresponding song of the users choice, the user will be redirected to the results page where the lyrics of that specific song plus the most up to date bio on the artist will be displayed. Two Api's were used for the app in order to render results. The api used to get the arist bio is from audio scrobbler and for the lyrics is from musix match.",
+        "link": "https://goobisanubis21.github.io/project1-lyricFinder/",
+        "code": "https://github.com/goobisanubis21/project1-lyricFinder"
     },
     {
         "id": 6,

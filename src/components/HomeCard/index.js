@@ -2,7 +2,7 @@ import React from "react";
 import github from "../../static/images/git.png";
 import linkedin from "../../static/images/linked.png";
 import instagram from "../../static/images/instalogo.png";
-import resume from "../../static/images/resume.png";
+import resume from "../../static/images/reumePic.png";
 import "./homeCard.css";
 
 function HomeCard() {
@@ -23,7 +23,6 @@ function HomeCard() {
                     <a title="LinkedIn" href="https://www.linkedin.com/in/anthony-parrino-887b391b3/" className="card-link"><img id="linkedinLogo" src={linkedin} alt="linkedin" /></a>
                     <a title="Instagram" href="https://www.instagram.com/antonio21_art/" className="card-link"><img id="instagramLogo" src={instagram} alt="instagram" /></a>
                     <a title="Resume" href="https://docs.google.com/document/d/1DF1pCoxE6CbxVXvTtMoAfvGEWmGFIUaM0rdCEHtcqZw/edit?usp=sharing" className="card-link"><img id="resumeLogo" src={resume} alt="resume" /></a>
-                    
                 </div>
             </div>
         </div>

@@ -18,7 +18,7 @@ function Nav() {
             </li>
             <li className="nav-item" title="Check out my projects">
                 <Link to="/projects" >
-                    Protfolio
+                    Portfolio
                 </Link>
             </li>
             <li className="nav-item" title="Questions? Feedback? Email me">
