@@ -16,3 +16,12 @@
 #logo {
     width: 50px;
 }
+
+@media screen and (max-width: 600px) {
+    #navBar li a {
+        font-size: 12px;
+    }
+    #logo {
+        width: 30px;
+    }
+}

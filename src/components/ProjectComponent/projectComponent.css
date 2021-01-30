@@ -19,3 +19,18 @@
     transform: scale(1.5);
     transition: transform 1.00s ease-in-out;
 }
+
+@media screen and (max-width: 600px) {
+    #projectCard {
+        width: 90%;
+    }
+    #imageSize:hover {
+        transform: scale(1.32);
+        transition: transform 1.00s ease-in-out;
+    }
+    #imageSize {
+        width: 85%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

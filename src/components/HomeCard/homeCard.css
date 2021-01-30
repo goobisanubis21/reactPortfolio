@@ -39,3 +39,15 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+@media screen and (max-width: 800px) {
+    #logos > a {
+        margin-left: 80px;
+    }
+    #resumeLogo {
+        margin-left: -20px;
+    }
+    #cardBodyDiv {
+        width: 100%;
+    }
+}
