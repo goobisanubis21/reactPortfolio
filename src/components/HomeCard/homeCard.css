@@ -42,7 +42,9 @@
 
 @media screen and (max-width: 800px) {
     #logos > a {
+        display: block;
         margin-left: 80px;
+        align-items: center;
     }
     #cardBodyDiv {
         width: 100%;
