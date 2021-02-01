@@ -7,7 +7,7 @@ function Projects() {
 
     return(
         <div>
-            <h1 className="projectsTitle">Projects</h1>
+            <h1 className="projectsTitle">Web Applications</h1>
             {projects.map(project => (
                 <ProjectComponent 
                     key={project.id}
