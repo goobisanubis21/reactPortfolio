@@ -12,6 +12,7 @@
 
 .listCardItems {
     margin: 30px;
+    list-style: none;
 }
 
 #imageSize {
