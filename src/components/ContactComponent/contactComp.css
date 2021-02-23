@@ -54,8 +54,13 @@
     }
     .textEl {
         width: 80%;
+        outline-width: 0;
     }
     .inputBorder {
         width: 80%;
+    }
+    .inputEl {
+        outline-width: 0;
+        border: none;
     }
 }

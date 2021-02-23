@@ -1,5 +1,13 @@
 [
     {
+        "id": 0,
+        "title": "Artist E-Commerce",
+        "image": "https://user-images.githubusercontent.com/69410816/108900551-bcc73880-75e7-11eb-93a6-5eca15725c0a.png",
+        "description": "Allows a user to view items, contact via email and purchase any item on the website.",
+        "link": "https://github.com/goobisanubis21/morgs-art",
+        "code": "https://github.com/goobisanubis21/morgs-art"
+    },
+    {
         "id": 1,
         "title": "Google Books",
         "image": "https://user-images.githubusercontent.com/69410816/107121727-03840700-6862-11eb-8731-43f4730be600.png",
@@ -27,7 +35,7 @@
         "id": 4,
         "title": "Hangman",
         "image": "https://user-images.githubusercontent.com/69410816/102934841-f1493780-4472-11eb-9b25-bef8bcb5bbc1.png",
-        "description": "Introducing HANGDOUT, a revolutionary way to play, collaborate, and learn alongside your peers! Upon entering the application, the user is greeted with a sign up page where they will create a username pior to entering the home page. We have implemented words derived from the Scholastic Aptitude Test in our hang man game which will allow the user to familiarize themselves with the word stack. After playing a game of hang man, the score of the user will be stored in a leaderboard which they can keep track of. The leaderboards will incorporate a ranking system that lets individuals compete in order to obtain the highest score. The vocabulary words have been strategically selected to engage our users of all age groups, especially those who are preparing to take their Scholastic Aptitude Test (SAT). Users will be able to edit and remove their profiles as they please which will remove all of their statistics including high scores and win streaks from the application.",
+        "description": "HANGDOUT is a revolutionary way to play, collaborate, and learn alongside your peers! Upon entering the application, the user is greeted with a sign up page where they will create a username pior to entering the home page. We have implemented words derived from the Scholastic Aptitude Test in our hang man game which will allow the user to familiarize themselves with the word stack. After playing a game of hang man, the score of the user will be stored in a leaderboard which they can keep track of. The leaderboards will incorporate a ranking system that lets individuals compete in order to obtain the highest score. The vocabulary words have been strategically selected to engage our users of all age groups, especially those who are preparing to take their Scholastic Aptitude Test (SAT). Users will be able to edit and remove their profiles as they please which will remove all of their statistics including high scores and win streaks from the application.",
         "link": "https://projectnumtwo2.herokuapp.com/login",
         "code": "https://github.com/goobisanubis21/projectTwo"
     },

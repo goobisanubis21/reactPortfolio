@@ -10,13 +10,18 @@ function HomeCard() {
         <div className="card" id="cardBodyDiv">
             <div className="card-body">
                 <br />
-                <h4 className="card-title">Full Stack Web Developer</h4>
+                <h3 className="card-title">Full Stack Web Developer</h3>
                 <br />
                 <h5 className="card-subtitle mb-2 text-muted">- HTML - CSS - JavaScript - JQuery - ReactJS - NodeJS - MONGOD - MySQL -</h5>
                 <br />
-                <strong id="card-text" className="card-text">Currently enrolled in the Rutgers Coding Bootcamp  for fullstack software development. I started coding on my own in 2018 and completed the CS50 introduction to computer science course through Harvard University's EDX program in early 2020. I prefer working as a fullstack developer with ReactJS, I enjoy the backend development as much as the frontend. I feel very confortable with my UI design capabilities due to my highly skilled artistic background in oil painting, the Instagram link below has a lot of my paintings for display. I look forward to a life long career in web design understanding the fact that learning something new each day will only bring me closer to my goal of mastering my development skills.</strong>
+                <h4 className="h4El">- About Me -</h4>
                 <br />
-                <br />
+                <strong id="card-text" className="card-text myInfo">Rutgers University Coding Bootcamp for fullstack software development graduate with an A+ academic average. I started coding on my own in 2017 and completed the CS50 introduction to computer science course through Harvard University's EDX program in early 2019. Working as a fullstack developer with ReactJS, I enjoy the backend development as much as the frontend. I feel very confortable with my UI design capabilities due to my highly skilled artistic background in oil painting, the Instagram link below has a lot of my paintings for display. I am also proficient in database creation and  managent with Mongodb and MySql. MERN stack has become something of a specialty in this most recent year and if you want to my favortie project you can do so <a href="/projects">here</a>. Having a life long career in web design, understanding the fact that learning something new each day will only bring me closer to my goal of mastering my development skills, has been a long time dream of mine. Now that it has come into fruition, it is everything I could have hoped for.</strong>
+                <div className="commission">
+                    <h4 className="h4El">- FreeLance -</h4>
+                    <br/>
+                    <strong id="card-text" className="card-text myInfo">Currently I am accepting freelance commisioned based work. This means if you are looking for a website with no limitations to be live on the internet for your business, personal use or any reson at all, I can create it for you based on any specific guidlines or design layouts you may or may not request. For any questions or FREE estimates check out the <a href="/contact">contact page</a> and send me an email.</strong>
+                </div>
                 <br />
                 <div id="logos">
                     <a title="Github" href="https://github.com/goobisanubis21" className="card-link"><img id="githubLogo" src={github} alt="github" /></a>

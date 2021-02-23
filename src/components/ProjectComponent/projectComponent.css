@@ -1,5 +1,5 @@
 #projectCard {
-    width: 50%;
+    width: 70%;
     align-items: center;
     text-align: center !important;
     margin: 40px;
@@ -10,13 +10,22 @@
     border: 1px solid black;
 }
 
+.content {
+    padding-top: 30px;
+}
+
 .listCardItems {
     margin: 30px;
     list-style: none;
 }
 
+.describe {
+    font-weight: 600;
+    padding: 30px;
+}
+
 #imageSize {
-    width: 85%;
+    width: 75%;
 }
 
 #imageSize:hover {
