@@ -20,7 +20,7 @@ function HomeCard() {
                 <div className="commission">
                     <h4 className="h4El">- FreeLance -</h4>
                     <br/>
-                    <strong id="card-text" className="card-text myInfo">Currently I am accepting freelance commissioned based work. This means if you are looking for a website with no limitations to be live on the internet for your business, personal use or any reson at all, I can create it for you based on any specific guidlines or design layouts you may or may not request. For any questions or FREE estimates check out the <a href="/contact">contact page</a> and send me an email.</strong>
+                    <strong id="card-text" className="card-text myInfo">Currently I am accepting freelance commissioned based work through my other website, <a href="https://www.webcanvasdevelopment.com/">WebCanvasDevelopment.com</a>. This means if you are looking for a website with no limitations to be live on the internet for your business, personal use or any reson at all, I can create it for you based on any specific guidlines or design layouts you may or may not request. For any questions or FREE estimates check out the <a href="/contact">contact page</a> and send me an email.</strong>
                 </div>
                 <br />
                 <div id="logos">

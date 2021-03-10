@@ -12,7 +12,7 @@ function Nav() {
                 </Link>
             </li>
             <li className="nav-item" title="Home Page">
-                <Link to="/" >
+                <Link to="/home" >
                     Home
                 </Link>
             </li>
