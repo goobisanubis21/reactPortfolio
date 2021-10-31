@@ -21,7 +21,7 @@ function HomeCard() {
             <div className='my-info-container'>
                 <div className='experience-container flex-style'>
                     <h4 className="h4El">- Experience -</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    <p>I have been doing freelance web design and development since late 2017, but my real world professional experience started in 2019 when I began to take on clients I had aquired from Facebook marketing and advertising. In 2020 I then aquired an internship at a fantasic web development company called <a href='https://www.fortitudedev.com/'>Fortitude Inc. </a> There I learned the value of working with a team and recieved a lot of training and experience in the world of full stack web development in a professional setting. A year later in mid 2021 I accepted an offer to become a full stack web development tutor for various Universities under the company <a href='https://2u.com/'> 2U Inc.</a> who is an amazing educational organization teaching students around North America computer science. Shortly after I started tutoring I then accepted the offered opportunity to join a six month intesive computer engineering bootcamp as a teaching assiant for the University of Toronto.</p>
                 </div>
 
                 <div className='journey-container flex-style'>

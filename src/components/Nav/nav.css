@@ -1,15 +1,16 @@
 #navBar {
     padding: 10px;
     width: 100%;
+    background-color: rgb(44, 44, 44);
 }
 
 #navBar li a {
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     cursor: pointer;
     margin: 20px;
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 #logo {

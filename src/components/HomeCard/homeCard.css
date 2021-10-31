@@ -60,6 +60,10 @@
     width: 100%;
 }
 
+#logos {
+    text-align: center;
+}
+
 #githubLogo {
     width: 80px;
     margin-top: 50px;
@@ -117,5 +121,12 @@
 
     .flex-style {
         display: block;
+    }
+
+    #cardBodyDiv {
+        text-align: center;
+    }
+    .my-info-container h4 {
+        width: 100%;
     }
 }
