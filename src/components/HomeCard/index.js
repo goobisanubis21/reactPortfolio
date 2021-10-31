@@ -10,16 +10,17 @@ function HomeCard() {
         <div className="card" id="cardBodyDiv">
             <div className="card-body">
                 <br />
-                <h3 className="card-title">Full Stack Web Developer</h3>
+                <h3 className="card-title">Full Stack Software Engineer</h3>
                 <br />
-                <h5 className="card-subtitle mb-2 text-muted">- HTML - CSS - JavaScript - JQuery - ReactJS - NodeJS - MONGOD - MySQL -</h5>
+                <h5 className="card-subtitle mb-2 text-muted">- ReactJS - HTML5 - CSS3 - JavaScript - JQuery - JQuery - Redux - JSON - NodeJS - Express - MongoDB - MySQL - MERN -</h5>
                 <br />
                 <h4 className="h4El">- About Me -</h4>
                 <br />
-                <strong id="card-text" className="card-text myInfo">Rutgers University Coding Bootcamp for fullstack software development graduate with an A+ academic average. I started coding on my own in 2017 and completed the CS50 introduction to computer science course through Harvard University's EDX program in early 2019. Working as a fullstack developer with ReactJS, I enjoy the backend development as much as the frontend. I feel very comfortable with my UI design capabilities due to my highly skilled artistic background in oil painting, the Instagram link below has a lot of my paintings for display. I am also proficient in database creation and management with Mongodb and MySql. MERN stack has become something of a specialty in this most recent year and if you want to view my favortie project you can do so <a href="/projects">here</a>. Having a life long career in web design, understanding the fact that learning something new each day will only bring me closer to my goal of mastering my development skills, has been a long time dream of mine.</strong>
+                <strong id="card-text" className="card-text myInfo">My coding journey began in 2017 when I started on the path of becoming a self taught programmer. Although that route was quite bumpy, it laid the foundation of knownlege that I needed to take my education to the next level. I completed the CS50 introduction to computer science course through Harvard University's EDX program in early 2019. I begain taking on clients for small web applications and programs soon after but I felt as if I needed a full stack background in order to truely build a career. I enrolled in the Rutgers Coding Bootcamp for Full Stack Web Development in 2020 and proudly graduated the 6 month demanding and intensive course with an A+ academic average. I am always learning and continue to take online course to expland what I know to stay up to day with the ever changing industry software development requires. 
+                </strong>
                 <div className="commission">
                     <h4 className="h4El">- FreeLance -</h4>
-                    <br/>
+                    <br />
                     <strong id="card-text" className="card-text myInfo">Currently I am accepting freelance commissioned based work through my other website, <a href="https://www.webcanvasdevelopment.com/">WebCanvasDevelopment.com</a>. This means if you are looking for a website with no limitations to be live on the internet for your business, personal use or any reson at all, I can create it for you based on any specific guidlines or design layouts you may or may not request. For any questions or FREE estimates check out the <a href="/contact">contact page</a> and send me an email.</strong>
                 </div>
                 <br />

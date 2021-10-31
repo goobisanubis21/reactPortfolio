@@ -1,6 +1,6 @@
 import React from "react";
 import "../static/style/home.css"
-import me from "../static/images/io.png"
+import me from "../static/images/mee.jpg"
 import HomeCard from "../components/HomeCard"
 
 const Home = () => {
