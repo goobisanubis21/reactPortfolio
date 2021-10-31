@@ -1,3 +1,7 @@
+#cardBodyDiv {
+    margin-top: 100px;
+}
+
 #githubLogo {
     width: 80px;
     margin-top: 50px;
@@ -42,32 +46,13 @@
     margin: 100px;
 }
 
-#cardBodyDiv {
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-    box-shadow: 0px 0px 50px 5px;
-}
-
-.commission {
-    margin-top: 40px;
-}
-
-.h4El {
-    background-color: rgb(203, 212, 168);
-    border-radius: 50%;
-    width: 200px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
-}
-
 @media screen and (max-width: 800px) {
     #logos > a {
         display: block;
         margin-left: 80px;
         align-items: center;
     }
+
     #cardBodyDiv {
         width: 100%;
     }
