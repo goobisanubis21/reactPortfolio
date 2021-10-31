@@ -5,18 +5,14 @@ import Nav from "./components/Nav";
 import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer/index"
-import Header from "./components/Header/index"
 import Choose from "./pages/Choose"
 import Resume  from "./components/Resume/Resume";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
         <Router>
-          <div>
             <Nav />
-            <Header />
             <Switch>
               <Route exact path="/" component={Choose} />
               <Route exact path="/home" component={Home} />
@@ -25,9 +21,7 @@ function App() {
               <Route exact path="/resumePage" component={Resume} />
             </Switch>
             <Footer/>
-          </div>
         </Router>
-      </header>
     </div>
   );
 }
